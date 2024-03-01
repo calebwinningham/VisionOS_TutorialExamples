@@ -6,3 +6,4 @@ Below you will find a list of each item covered:
 - 
 -  [VisionOS Ornaments](https://github.com/calebwinningham/VisionOS_TutorialExamples/tree/main#visionos_tutorialexamples)
 -  [VisionOS Particle Based Weather](https://github.com/calebwinningham/VisionOS_TutorialExamples/tree/main/VisionOS_ParticleBasedWeather#visionos---using-particles-to-create-weather-effects)
+-  [VisionOS Ambient Audio](https://github.com/calebwinningham/VisionOS_TutorialExamples/tree/main/VisionOS_AmbientAudio#visionos---using-particles-to-create-weather-effects)
