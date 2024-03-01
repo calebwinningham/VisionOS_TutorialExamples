@@ -4,6 +4,7 @@ In this repo, you will find most, if not all, of the mini-projects and apps I cr
 
 Below you will find a list of each item covered:
 - 
+-  [VisionOS Ambient Audio](https://github.com/calebwinningham/VisionOS_TutorialExamples/tree/main/VisionOS_AmbientAudio#visionos---using-particles-to-create-weather-effects)
 -  [VisionOS Ornaments](https://github.com/calebwinningham/VisionOS_TutorialExamples/tree/main#visionos_tutorialexamples)
 -  [VisionOS Particle Based Weather](https://github.com/calebwinningham/VisionOS_TutorialExamples/tree/main/VisionOS_ParticleBasedWeather#visionos---using-particles-to-create-weather-effects)
--  [VisionOS Ambient Audio](https://github.com/calebwinningham/VisionOS_TutorialExamples/tree/main/VisionOS_AmbientAudio#visionos---using-particles-to-create-weather-effects)
+-  [VisionOS Skyboxes](https://github.com/calebwinningham/VisionOS_TutorialExamples/tree/main/VisionOS_SkyboxExample#visionos---skybox-example)
