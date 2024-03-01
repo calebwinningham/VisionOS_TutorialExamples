@@ -1,0 +1,87 @@
+{
+  "advancedEditorSelectedIdentifier" : "ProjectBrowser",
+  "openSceneRelativePaths" : [
+    "Immersive.usda",
+    "AudioController.usda"
+  ],
+  "recentIdentifiers" : {
+    "FFA1DE6C-45C6-4CA3-88B9-D91292A11D61" : [
+
+    ]
+  },
+  "sceneCameraHistory" : {
+    "62C09AB8-138F-496B-85AC-495DDB9CC871" : [
+      {
+        "date" : 730457148.749244,
+        "title" : "Untitled",
+        "transform" : [
+          1,
+          0,
+          -0,
+          0,
+          -0,
+          0.8660254,
+          -0.5,
+          0,
+          0,
+          0.5,
+          0.8660254,
+          0,
+          0,
+          0.22555776,
+          0.3906775,
+          1
+        ]
+      }
+    ],
+    "AF09ED6F-1707-48FD-8720-65B998362C09" : [
+      {
+        "date" : 730457082.401239,
+        "title" : "Untitled",
+        "transform" : [
+          0.99999994,
+          0,
+          -0,
+          0,
+          -0,
+          0.86602575,
+          -0.49999943,
+          0,
+          0,
+          0.49999943,
+          0.86602575,
+          0,
+          0,
+          3.9218543,
+          4.675512,
+          1
+        ]
+      }
+    ],
+    "FFA1DE6C-45C6-4CA3-88B9-D91292A11D61" : [
+      {
+        "date" : 730457163.350395,
+        "title" : "Untitled",
+        "transform" : [
+          1,
+          0,
+          -0,
+          0,
+          -0,
+          0.8660254,
+          -0.5,
+          0,
+          0,
+          0.5,
+          0.8660254,
+          0,
+          0,
+          0.22555776,
+          0.3906775,
+          1
+        ]
+      }
+    ]
+  },
+  "selectedSceneRelativePath" : "AudioController.usda"
+}
